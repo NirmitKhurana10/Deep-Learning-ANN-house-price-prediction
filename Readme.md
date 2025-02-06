@@ -72,7 +72,7 @@ The model's performance was evaluated using:
 
 ## Contributors
 
-- [Your Name]
+- Nirmit Khurana
 
 ## License
 
